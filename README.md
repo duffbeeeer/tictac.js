@@ -7,5 +7,4 @@
 
 ### How to run tests
 
-- npm install
-- npm test --experimenta-vm-modules
+- npm test --experimental-vm-modules
